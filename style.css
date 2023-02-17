@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    width: 100%;
+
+  }
+  button{
+    width: 50;
+    padding: 10px;
+    margin: 0 3px;
+    border: 2px  white;
+    border-radius: 6px;
+    cursor:pointer;
+  }
+  .row{
+    margin: 1px 0;
+  }
+  .row input{
+    background-color: greenyellow;
+    font-size:20px;
+    margin: 0;
+    padding: 8px 0px;
+    border: 2xp solid black;
+    border-radius:5xp ;
+  }
+.button {
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+}
+
